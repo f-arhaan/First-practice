@@ -4,11 +4,11 @@ Author - Mohammad Farhaan Akhtar
 <br>
 <p>C:\Users\farha>help</p>
 <h1>For more information on a specific command, type HELP command-name</h1>
-<table><tr><th>ASSOC</th></tr></table>
-ASSOC          Displays or modifies file extension associations.
-ATTRIB         Displays or changes file attributes.
-BREAK          Sets or clears extended CTRL+C checking.
-BCDEDIT        Sets properties in boot database to control boot loading.
+
+<h1>ASSOC</h1>          Displays or modifies file extension associations.
+<h1>ATTRIB</h1>         Displays or changes file attributes.
+<h1>BREAK</h1>          Sets or clears extended CTRL+C checking.
+<h1>BCDEDIT</h1>        Sets properties in boot database to control boot loading.
 CACLS          Displays or modifies access control lists (ACLs) of files.
 CALL           Calls one batch program from another.
 CD             Displays the name of or changes the current directory.
