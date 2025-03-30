@@ -3,7 +3,7 @@ My first practice of coding ( fist repository)
 Author - Mohammad Farhaan Akhtar
 <br>
 <p>C:\Users\farha>help</p>
-For more information on a specific command, type HELP command-name
+<h1>For more information on a specific command, type HELP command-name</h1>
 ASSOC          Displays or modifies file extension associations.
 ATTRIB         Displays or changes file attributes.
 BREAK          Sets or clears extended CTRL+C checking.
