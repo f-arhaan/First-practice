@@ -4,6 +4,7 @@ Author - Mohammad Farhaan Akhtar
 <br>
 <p>C:\Users\farha>help</p>
 <h1>For more information on a specific command, type HELP command-name</h1>
+<table><tr><th>ASSOC</th></tr></table>
 ASSOC          Displays or modifies file extension associations.
 ATTRIB         Displays or changes file attributes.
 BREAK          Sets or clears extended CTRL+C checking.
